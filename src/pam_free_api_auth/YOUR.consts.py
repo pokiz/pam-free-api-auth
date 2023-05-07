@@ -1,0 +1,7 @@
+SECURED_GROUPS = {"free-api-auth"}
+TIMEOUT_FAILURE = 30
+SERVER_IP = "YOUR-IP"
+SERVER_PORT = PORT-TO-USE
+FREE_URL = "https://smsapi.free-mobile.fr/sendmsg"
+FREE_LOGIN = "YOUR-LOGIN"
+FREE_API_KEY = "YOUR-API-KEY"
